@@ -12,8 +12,6 @@ Next Level Week #03 - Happy
 <br>
 
 ## 💻 Project
-This project was created during Rocketseat's Next Level Week #03 event.
-
 Happy is an application that connects people to institutional care homes to make many children's days happier.
 
 ## 🚀 Technologies
