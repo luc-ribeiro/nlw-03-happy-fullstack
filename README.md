@@ -5,103 +5,103 @@ Next Level Week #03 - Happy
 
   ![Happy](https://github.com/luc-ribeiro/nlw-03-happy/blob/master/design/logo.svg?raw=true)
 </h1>
+
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nlw-03-happy-fullstack/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 <br>
 
-## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #03 da Rocketseat.
+## 💻 Project
+This project was created during Rocketseat's Next Level Week #03 event.
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz
+Happy is an application that connects people to institutional care homes to make many children's days happier.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - **NodeJS**
-- **React** 
+- **React**
 - **React Native**
 - **Expo**
 - **TypeScript**
 
 ![banner](https://github.com/luc-ribeiro/nlw-03-happy/blob/master/design/mockup.png)
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-03-happy.git
+  $ git clone https://github.com/luc-ribeiro/nlw-03-happy-fullstack.git
 ```
 
 #### Back-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **server** e execute o comando:
+Start the project, go to the **server** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3333`
+Access the project at `localhost:3333`
 
 #### Front-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **web** e execute o comando:
+Start the project, go to the **web** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3000`
+Access the project at `localhost:3000`
 
 #### Mobile
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **mobile** e execute o comando:
+Start the project, go to the **mobile** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-**É necessário ter o aplicativo Expo instalado em seu dispositivo Android ou IOS**
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Rocketseat
+**You need to have the Expo app installed on your Android or iOS device**
