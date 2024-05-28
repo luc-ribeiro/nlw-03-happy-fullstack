@@ -12,8 +12,6 @@ Next Level Week #03 - Happy
 <br>
 
 ## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #03 da Rocketseat.
-
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz
 
 ## 🚀 Tecnologias
